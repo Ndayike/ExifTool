@@ -1,2 +1,3 @@
 # ExifTool
 Strip every invisible image tag. Keep only the pixels.
+This ExifTool Clean is a utility designed to strip every invisible image tag, ensuring that only the raw pixels remain intact. By removing all embedded metadata such as EXIF, IPTC, and XMP information, it guarantees maximum privacy and a clean file structure without altering the visual content. The tool automatically overwrites the original file with the cleaned version, making it ideal for workflows where metadata removal is critical. Developed by Apollinaire Ndayikeze, ExifTool Clean provides a simple yet powerful solution for secure and transparent image handling.
